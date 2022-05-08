@@ -1,0 +1,21 @@
+
+        body {
+            width: 90%;
+        }
+        td {
+            padding: 50px;
+            
+        }
+
+        div {
+            background-color: orange;
+        }
+
+        .white {
+            background-color: white;
+        }
+        
+        .black{
+            background-color: black;
+        }
+        
